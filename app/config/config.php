@@ -3,7 +3,7 @@
     define('APPROOT', dirname(dirname(__FILE__)));
 
     // URL Root
-    define('URLROOT', 'http://localhost/mvc');
+    define('URLROOT', 'https://salty-plateau-57236.herokuapp.com/');
 
     // Site Name
     define('SITENAME', 'SharePosts');
